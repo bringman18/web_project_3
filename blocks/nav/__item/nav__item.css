@@ -1,0 +1,9 @@
+.nav__item  {
+    display: inline;
+}
+
+@media screen and (max-width: 425px) {
+    .nav__item_footer  {
+        display: block;
+    }
+}
