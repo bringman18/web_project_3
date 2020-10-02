@@ -10,7 +10,7 @@
     grid-gap: 40px 48px;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, auto);
-    margin-bottom: 80px;
+    margin: 0px 48px 80px 48px;
 }
 
 @media screen and (max-width:768px)  {

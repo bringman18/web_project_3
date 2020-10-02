@@ -1,4 +1,4 @@
-@import url(./__item/nav__item.css);
+@import url(./__footer/nav__footer.css);
 
 .nav  {
     display: flex;
@@ -6,8 +6,4 @@
     list-style: none;
 }
 
-@media screen and (max-width: 425px) {
-    .nav  {
-        flex-direction: column;
-    }
-}
+

@@ -4,7 +4,7 @@
 
 @media screen and (min-width:425px) and (max-width: 768px)  {
     .place__website {
-        margin: 30px 16px 32px 16px;
+        margin: 30px 24px 32px 24px;
         font-size: 16px;
     }
 }
