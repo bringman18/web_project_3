@@ -1,5 +1,5 @@
 .place__title  {
-    font-weight: 900;
+    font-family: 'Inter-Bold';
     font-size: 72px;
     line-height: 76px;
     grid-column-start: 1;
