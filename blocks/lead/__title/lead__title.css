@@ -9,7 +9,6 @@
 
 @media screen and (max-width:425px)  {
     .lead__title  {
-        border: 2px solid purple;
         font-size: 40px;
         line-height: 44px;
         margin-top: 0px;
