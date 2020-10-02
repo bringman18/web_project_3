@@ -1,10 +1,5 @@
 ﻿# Project 3: From Portland to Portland
 
-### Overview
-* Intro
-* Figma
-* Images
-
 **Intro**
 
 This is a project about traveling across the US from Portland to Portland. It was provided as a part of Yandex Practicum Web Developer Bootcamp curriculum. The design brief created in Figma was to be replicated into a website that is responsive across multiple user devices.
