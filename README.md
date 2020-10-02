@@ -1,4 +1,4 @@
-# Project 3: From Portland to Portland
+﻿# Project 3: From Portland to Portland
 
 ### Overview
 * Intro
@@ -7,14 +7,26 @@
 
 **Intro**
 
-This is a project about traveling across the US. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
+This is a project about traveling across the US from Portland to Portland. It was provided as a part of Yandex Practicum Web Developer Bootcamp curriculum. The design brief created in Figma was to be replicated into a website that is responsive across multiple user devices.
+
+**Technology Used**
+
+HTML
+
+CSS
+
+CSS Flexbox
+
+CSS Grid
+
+CSS Media Queries
 
 **Figma**
 
 * [Link to the project on Figma](https://www.figma.com/file/xM9rNsdK4iNcFJmDZho3Aw/Sprint-3%3A-From-Portland-to-Portland-%2F-desktop-%2B-mobile?node-id=500%3A0)
 
-**Images**
+**My Version**
 
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
+https://bringman18.github.io/web_project_3/
 
-Good luck and have fun!
+Thank you for reviewing my code
