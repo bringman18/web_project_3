@@ -9,12 +9,10 @@
     font-family: 'Inter-Bold';
     src: url('./inter/inter-bold-webfont.woff') format('woff');
     font-style: normal;
-    font-weight: 900;
 }
 
 @font-face  {
     font-family: 'Intern-Thin';
     src: url('./inter/inter-thin-webfont.woff') format('woff');
     font-style: normal;
-    font-weight: 100;
 }
