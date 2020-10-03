@@ -4,7 +4,8 @@
     margin: 0 auto;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Inter-Regular';
+    font-family: 'Inter';
+    font-weight: 400;
     color:#FFF;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;

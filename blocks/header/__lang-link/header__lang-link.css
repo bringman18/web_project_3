@@ -1,13 +1,9 @@
-@import url(./_active/header__lang-link_active.css);
-
 .header__lang-link  {
     text-decoration: none;
     color: #FFF;
     padding-left: 18px;
     font-size: 24px;
-    font-weight: 300;
     line-height: 28px;
-    
 }
 
 @media screen and (max-width: 425px)  {
