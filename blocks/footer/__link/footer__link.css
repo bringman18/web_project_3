@@ -4,11 +4,12 @@
     font-size: 16px;
     line-height: 18px;
     padding-right: 18px;
-    font-weight: 100;
+    transition: opacity .25s ease-in-out;
 }
 
 .footer__link:hover  {
     cursor: url('../../../images/Imported\ Layers\ Copy\ 4.svg'), auto;
+    opacity: 0.8;
 }
 
 @media screen and (max-width: 425px) {
