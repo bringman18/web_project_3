@@ -4,6 +4,12 @@
     padding-left: 18px;
     font-size: 24px;
     line-height: 28px;
+    transition: opacity .25s ease-in-out;
+}
+
+.header__lang-link:hover  {
+    cursor: url('../../../images/Imported\ Layers\ Copy\ 4.svg'), auto;
+    opacity: 0.8;
 }
 
 @media screen and (max-width: 425px)  {
