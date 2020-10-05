@@ -10,15 +10,14 @@
     opacity: 0.8;
 }
 
-@media screen and (min-width:425px) and (max-width: 768px)  {
+@media screen and (min-width:620px) and (max-width: 768px)  {
     .place__website {
         font-size: 16px;
     }
 }
 
-@media screen and (max-width:425px)  {
+@media screen and (max-width:620px)  {
     .place__website {
-        position: absolute;
         display: none;
     }
 }

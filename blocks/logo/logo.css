@@ -1,6 +1,10 @@
+.logo  {
+    max-height: 44px;
+    width: auto;
+}
+
 @media screen and (max-width: 320px)  {
     .logo  {
         max-height: 36px;
-        width: auto;
     }
   }

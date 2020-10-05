@@ -5,31 +5,74 @@
 @import url(./__url-heading/place__url-heading.css);
 @import url(./__link/place__link.css);
 
-.place  {
-    max-width: 984px;
-    display: grid;
-    grid-gap: 40px 48px;
+.place  { 
+    max-width: 984px; 
+    display: grid; 
+    grid-gap: 40px 48px; 
     grid-template-columns: repeat(2, 1fr);
-    margin: 0 auto 80px;
-}
+    margin-bottom: 80px; 
+} 
 
-@media screen and (min-width: 768px) and (max-width: 1024px)  {
-    .place  {
-        padding: 0 48px;
+.place:last-child  {
+    margin-bottom: 92px;
+}
+ 
+@media screen and (min-width: 769px) and (max-width: 1024px)  { 
+    .place  { 
+        margin-top: 80px;
+        margin-bottom: 80px;
+        grid-gap: 32px 48px;  
+    } 
+
+    .place:first-child  {
+        margin-top: 92px;
     }
-}
+} 
+ 
+@media screen and (min-width: 620px) and (max-width:768px)  { 
+    .place { 
+        grid-gap: 28px 48px;
+        margin-top: 72px; 
+        margin-bottom: 72px;
+    } 
 
-@media screen and (min-width: 425px) and (max-width:768px)  {
-    .place {
-        padding: 0 24px;
+    .place:first-child  {
+        margin-top: 88px;
     }
-}
 
-@media screen and (max-width: 425px) {
-    .place  {
-        grid-template-columns: repeat(1, 1fr);
+    .place:last-child  {
+        margin-bottom: 88px;
+    }
+} 
+ 
+@media screen and (min-width: 425px) and (max-width: 620px) { 
+    .place  { 
+        grid-template-columns: repeat(1, 1fr); 
+        grid-template-rows: repeat(1, auto); 
+        margin-bottom: 48px;  
+    } 
+
+    .place:first-child  {
+        margin-top: 64px;
+    }
+
+    .place:last-child  {
+        margin-bottom: 64px;
+    }
+} 
+
+@media screen and (max-width: 425px) { 
+    .place  { 
+        grid-template-columns: repeat(1, 1fr); 
         grid-template-rows: repeat(1, auto);
-        padding: 0px;
-        margin-bottom: 0px;
+        margin-bottom: 48px;   
+    } 
+
+    .place:first-child  {
+        margin-top: 64px;
     }
-}
+
+    .place:last-child  {
+        margin-bottom: 64px;
+    }
+} 

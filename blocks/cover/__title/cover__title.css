@@ -3,9 +3,12 @@
     font-size: 72px;
     line-height: 76px;
     max-width: 656px;
-    z-index: 1;
+    color: #FFFDFD;
     margin: 0px 0px 32px;
     max-width: 656px;
+    position: relative;
+    cursor: url('../../../images/Imported\ Layers\ Copy\ 4.svg'), auto;
+    z-index: 1;
 }
 
 @media screen and (max-width:425px)  {
